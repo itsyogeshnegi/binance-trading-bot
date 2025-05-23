@@ -1,0 +1,30 @@
+{
+  "name": "binance-trading-bot",
+  "version": "1.0.0",
+  "description": "Automated crypto trading bot using Binance API",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "trading",
+    "bot",
+    "binance",
+    "nodejs"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "binance-api-node": "^0.12.9",
+    "ccxt": "^4.4.85",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "winston": "^3.17.0"
+  }
+}

@@ -1,0 +1,7 @@
+{"level":"info","message":"Market watcher started. Checking every 1h","timestamp":"2025-05-23T05:28:47.464Z"}
+{"level":"info","message":"Trade executor started. Monitoring trades every 5 minutes","timestamp":"2025-05-23T05:28:47.470Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-05-23T05:28:47.485Z"}
+{"level":"info","message":"Market watcher started. Checking every 1h","timestamp":"2025-05-23T05:28:52.184Z"}
+{"level":"info","message":"Trade executor started. Monitoring trades every 5 minutes","timestamp":"2025-05-23T05:28:52.189Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-05-23T05:28:52.197Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","timestamp":"2025-05-23T05:43:00.632Z"}
